@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\bin\Debug\klavyeden_girilen_sayi_tekcift.exe.config
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\bin\Debug\klavyeden_girilen_sayi_tekcift.exe
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\bin\Debug\klavyeden_girilen_sayi_tekcift.pdb
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\obj\Debug\klavyeden_girilen_sayi_tekcift.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\obj\Debug\klavyeden_girilen_sayi_tekcift.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\obj\Debug\klavyeden_girilen_sayi_tekcift.exe
+C:\Users\MONSTER\source\repos\klavyeden_girilen_sayi_tekcift\klavyeden_girilen_sayi_tekcift\obj\Debug\klavyeden_girilen_sayi_tekcift.pdb

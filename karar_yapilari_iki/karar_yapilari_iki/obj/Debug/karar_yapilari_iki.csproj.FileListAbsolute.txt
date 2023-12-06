@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\obj\Debug\karar_yapilari_iki.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\obj\Debug\karar_yapilari_iki.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\bin\Debug\karar_yapilari_iki.exe.config
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\bin\Debug\karar_yapilari_iki.exe
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\bin\Debug\karar_yapilari_iki.pdb
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\obj\Debug\karar_yapilari_iki.exe
+C:\Users\MONSTER\source\repos\karar_yapilari_iki\karar_yapilari_iki\obj\Debug\karar_yapilari_iki.pdb

@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\obj\Debug\klayveden_veri_girisi.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\obj\Debug\klayveden_veri_girisi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\bin\Debug\klayveden_veri_girisi.exe.config
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\bin\Debug\klayveden_veri_girisi.exe
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\bin\Debug\klayveden_veri_girisi.pdb
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\obj\Debug\klayveden_veri_girisi.exe
+C:\Users\MONSTER\source\repos\klayveden_veri_girisi\klayveden_veri_girisi\obj\Debug\klayveden_veri_girisi.pdb
