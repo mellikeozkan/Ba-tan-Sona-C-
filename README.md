@@ -1,2 +1,2 @@
-# Ba-tan-Sona-C-
+# Bastan-Sona-C-
 Sıfırdan C# Dersleri
