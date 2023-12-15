@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\bin\Debug\foreach_dongusu_iki.exe.config
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\bin\Debug\foreach_dongusu_iki.exe
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\bin\Debug\foreach_dongusu_iki.pdb
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\obj\Debug\foreach_dongusu_iki.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\obj\Debug\foreach_dongusu_iki.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\obj\Debug\foreach_dongusu_iki.exe
+C:\Users\MONSTER\source\repos\foreach_dongusu_iki\foreach_dongusu_iki\obj\Debug\foreach_dongusu_iki.pdb

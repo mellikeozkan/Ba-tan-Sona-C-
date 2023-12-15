@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach_dongusu_iki", "foreach_dongusu_iki\foreach_dongusu_iki.csproj", "{BB17CCE2-21B1-4522-8800-61BD0E86667A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB17CCE2-21B1-4522-8800-61BD0E86667A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB17CCE2-21B1-4522-8800-61BD0E86667A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB17CCE2-21B1-4522-8800-61BD0E86667A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB17CCE2-21B1-4522-8800-61BD0E86667A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB1559C6-10B1-47C2-AAD0-0F30F1059773}
+	EndGlobalSection
+EndGlobal

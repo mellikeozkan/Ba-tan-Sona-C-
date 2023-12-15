@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\bin\Debug\for_dongusu.exe.config
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\bin\Debug\for_dongusu.exe
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\bin\Debug\for_dongusu.pdb
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\obj\Debug\for_dongusu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\obj\Debug\for_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\obj\Debug\for_dongusu.exe
+C:\Users\MONSTER\source\repos\for_dongusu\for_dongusu\obj\Debug\for_dongusu.pdb
