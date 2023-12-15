@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\obj\Debug\dongulerde_karar_yapisi_iki.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\obj\Debug\dongulerde_karar_yapisi_iki.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\bin\Debug\dongulerde_karar_yapisi_iki.exe.config
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\bin\Debug\dongulerde_karar_yapisi_iki.exe
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\bin\Debug\dongulerde_karar_yapisi_iki.pdb
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\obj\Debug\dongulerde_karar_yapisi_iki.exe
+C:\Users\MONSTER\source\repos\dongulerde_karar_yapisi_iki\dongulerde_karar_yapisi_iki\obj\Debug\dongulerde_karar_yapisi_iki.pdb

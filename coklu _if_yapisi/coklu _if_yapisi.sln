@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coklu _if_yapisi", "coklu _if_yapisi\coklu _if_yapisi.csproj", "{988B81B4-E421-429B-9230-EC83EAD1FC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988B81B4-E421-429B-9230-EC83EAD1FC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988B81B4-E421-429B-9230-EC83EAD1FC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988B81B4-E421-429B-9230-EC83EAD1FC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988B81B4-E421-429B-9230-EC83EAD1FC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8BE2FAB-3C6B-4EC1-88FC-2B611CD38A66}
+	EndGlobalSection
+EndGlobal

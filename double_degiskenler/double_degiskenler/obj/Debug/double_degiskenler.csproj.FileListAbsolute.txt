@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\bin\Debug\double_degiskenler.exe.config
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\bin\Debug\double_degiskenler.exe
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\bin\Debug\double_degiskenler.pdb
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\obj\Debug\double_degiskenler.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\obj\Debug\double_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\obj\Debug\double_degiskenler.exe
+C:\Users\MONSTER\source\repos\double_degiskenler\double_degiskenler\obj\Debug\double_degiskenler.pdb

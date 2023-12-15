@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\bin\Debug\coklu _if_yapisi.exe.config
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\bin\Debug\coklu _if_yapisi.exe
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\bin\Debug\coklu _if_yapisi.pdb
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\obj\Debug\coklu _if_yapisi.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\obj\Debug\coklu _if_yapisi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\obj\Debug\coklu _if_yapisi.exe
+C:\Users\MONSTER\source\repos\coklu _if_yapisi\coklu _if_yapisi\obj\Debug\coklu _if_yapisi.pdb

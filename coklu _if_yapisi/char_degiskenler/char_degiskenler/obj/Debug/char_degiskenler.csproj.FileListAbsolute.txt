@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\bin\Debug\char_degiskenler.exe.config
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\bin\Debug\char_degiskenler.exe
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\bin\Debug\char_degiskenler.pdb
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\obj\Debug\char_degiskenler.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\obj\Debug\char_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\obj\Debug\char_degiskenler.exe
+C:\Users\MONSTER\source\repos\char_degiskenler\char_degiskenler\obj\Debug\char_degiskenler.pdb
