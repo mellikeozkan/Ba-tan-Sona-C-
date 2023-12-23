@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\metotlar_iki\bin\Debug\metotlar_iki.exe.config
+C:\Users\MONSTER\source\repos\metotlar_iki\bin\Debug\metotlar_iki.exe
+C:\Users\MONSTER\source\repos\metotlar_iki\bin\Debug\metotlar_iki.pdb
+C:\Users\MONSTER\source\repos\metotlar_iki\obj\Debug\metotlar_iki.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\metotlar_iki\obj\Debug\metotlar_iki.exe
+C:\Users\MONSTER\source\repos\metotlar_iki\obj\Debug\metotlar_iki.pdb

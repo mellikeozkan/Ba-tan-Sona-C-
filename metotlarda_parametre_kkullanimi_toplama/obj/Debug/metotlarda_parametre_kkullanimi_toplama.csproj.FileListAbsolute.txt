@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kkullanimi_toplama\bin\Debug\metotlarda_parametre_kkullanimi_toplama.exe.config
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kkullanimi_toplama\bin\Debug\metotlarda_parametre_kkullanimi_toplama.exe
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kkullanimi_toplama\bin\Debug\metotlarda_parametre_kkullanimi_toplama.pdb
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kkullanimi_toplama\obj\Debug\metotlarda_parametre_kkullanimi_toplama.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kkullanimi_toplama\obj\Debug\metotlarda_parametre_kkullanimi_toplama.exe
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kkullanimi_toplama\obj\Debug\metotlarda_parametre_kkullanimi_toplama.pdb

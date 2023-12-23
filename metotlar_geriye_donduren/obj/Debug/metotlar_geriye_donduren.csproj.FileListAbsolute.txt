@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\metotlar_geriye_donduren\bin\Debug\metotlar_geriye_donduren.exe.config
+C:\Users\MONSTER\source\repos\metotlar_geriye_donduren\bin\Debug\metotlar_geriye_donduren.exe
+C:\Users\MONSTER\source\repos\metotlar_geriye_donduren\bin\Debug\metotlar_geriye_donduren.pdb
+C:\Users\MONSTER\source\repos\metotlar_geriye_donduren\obj\Debug\metotlar_geriye_donduren.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\metotlar_geriye_donduren\obj\Debug\metotlar_geriye_donduren.exe
+C:\Users\MONSTER\source\repos\metotlar_geriye_donduren\obj\Debug\metotlar_geriye_donduren.pdb

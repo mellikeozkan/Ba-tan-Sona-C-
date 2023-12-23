@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kullanimi\bin\Debug\metotlarda_parametre_kullanimi.exe.config
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kullanimi\bin\Debug\metotlarda_parametre_kullanimi.exe
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kullanimi\bin\Debug\metotlarda_parametre_kullanimi.pdb
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kullanimi\obj\Debug\metotlarda_parametre_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kullanimi\obj\Debug\metotlarda_parametre_kullanimi.exe
+C:\Users\MONSTER\source\repos\metotlarda_parametre_kullanimi\obj\Debug\metotlarda_parametre_kullanimi.pdb

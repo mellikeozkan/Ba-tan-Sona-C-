@@ -1,0 +1,2 @@
+C:\Users\MONSTER\source\repos\siniflar_ve_metotlar\obj\Debug\siniflar_ve_metotlar.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\siniflar_ve_metotlar\obj\Debug\siniflar_ve_metotlar.csproj.CoreCompileInputs.cache
